@@ -6,6 +6,9 @@
 <br />
 What to do?
 1. Clone the repo from https://github.com/grayhatdevelopers/mario-html5.
+<br />
 2. Check your node version. This project works well on node 16.16.0 or node 16.19.1
-3. Install: npm install
+<br />
+3. Install: npm install.
+<br />
 4. Run: npm start
